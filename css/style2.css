@@ -1,0 +1,15 @@
+
+body {
+	background-color: SkyBlue;
+}
+
+h1 {
+	background-color: rgb(66, 245, 215);
+	color: hsl(114, 77%, 44%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #f45d5d;
+}
